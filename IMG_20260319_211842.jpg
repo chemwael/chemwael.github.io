@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta name="google-site-verification" content="V7s-FnO5lyUSy-Fc-mkZuRFaBs8r_ivzUUHHZtalJXQ" />
+<meta charset="UTF-8">
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>وائل محمد عبد الجواد عبد المقصود</title>
+
+<meta name="description" content="الموقع الشخصي ل د.وائل محمد عبد الجواد عبد المقصود">
+
+<meta name="keywords" content="وائل محمد عبد الجواد عبد المقصود, وائل محمد عبد الجواد, Wael Mohamed Abdelgawad">
+
+<meta name="author" content="وائل محمد عبد الجواد عبد المقصود">
+
+<style>
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin:0;
+    font-family:Arial,Tahoma,sans-serif;
+    background:#f4f7fa;
+    color:#222;
+    line-height:1.9;
+}
+
+header{
+    background:#0b4f8a;
+    color:white;
+    text-align:center;
+    padding:45px 20px;
+}
+
+header h1{
+    margin:0 0 10px;
+    font-size:32px;
+}
+
+header p{
+    margin:5px 0;
+    font-size:18px;
+}
+
+main{
+    max-width:900px;
+    margin:25px auto;
+    padding:0 15px;
+}
+
+section{
+    background:white;
+    margin-bottom:20px;
+    padding:25px;
+    border-radius:12px;
+    box-shadow:0 3px 12px rgba(0,0,0,0.08);
+}
+
+h2{
+    color:#0b4f8a;
+    margin-top:0;
+    border-right:4px solid #0b4f8a;
+    padding-right:12px;
+}
+
+ul{
+    padding-right:25px;
+}
+
+li{
+    margin-bottom:8px;
+}
+
+footer{
+    background:#0b4f8a;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+}
+
+.name{
+    font-weight:bold;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+
+<h1>دكتور كيميائى ائل محمد عبد الجواد عبد المقصود</h1>
+
+<p>الموقع الشخصي</p>
+
+<p> مرحبًا بكم في موقعي الإلكتروني حيث أشارك خبراتى العلميه والمهنيه في مجال الكيمياء وتصنيع أحبار الطباعه وطلاءات المعادن</p>
+
+</header>
+
+<main>
+
+<section>
+
+<h2>نبذة عني</h2>
+
+<p>
+مرحبًا بكم في الموقع الشخصي
+<span class="name">لوائل محمد عبد الجواد عبد المقصود</span>.
+</p>
+
+<p>
+دكتور كيميائى وائل محمد عبد الجواد عبد المقصود حاصل علي دكتوراه في الكيمياء واستشارى التحاليل الطبيه واستشارى تصنيع احبار الطباعه 
+    يمتلك خبره مهنيه تزيد عن 20 عام في مجال صناعة احبار الطباعه والدهانات بشركة باكين للبويات وتدرج في المناصب الاداريه حتى وصل الى درجتى مدير الانتاج ومدير معامل بمصنع احبار الطباعه بشركة باكين
+وتشمل خبرته الفنيه تصنيع وتطوير احبار الطباعه باقسام الفلكسو والروتو والسلك سكرين وطلاءات المعادن وتطوير التركيبات وتحسين جودة واداء منتجات الاحبار والطلاءات
+</p>
+
+</section>
+
+<section>
+
+<h2>الاهتمامات والخبرات</h2>
+
+<ul>
+
+<li>تصنيع وتطوير احبار الفلكسو.</li>
+
+<li>تصنيع وتطوير احبار الروتو.</li>
+
+<li>تصنيع وتطوير احبار السلك سكرين</li>
+
+<li>تصنيع وتطوير احبار المعادن.</li>
+
+</ul>
+
+</section>
+
+<section>
+
+<h2>أهداف الموقع</h2>
+
+<p>
+    الهاتف 01001314674 واتس
+    الهاتف 01282222995 واتس
+    الايميل chem.wael@gmail.com.
+</p>
+
+</section>
+
+<section>
+
+<h2>التواصل</h2>
+
+<p>
+يمكن استخدام هذه الصفحة كواجهة إلكترونية للتعريف بي
+وبالمعلومات والمحتوى الذي سيتم إضافته إلى الموقع مستقبلًا.
+</p>
+
+</section>
+
+</main>
+
+<footer>
+
+© 2026 وائل محمد عبد الجواد عبد المقصود
+
+</footer>
+
+</body>
+</html>
